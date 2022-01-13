@@ -42,7 +42,7 @@ export default function Home() {
                 />
               </MotionBox>
               <Box bgColor='blue.400' maxW='90vw' px='5' py='1' rounded='lg'>
-                Hello, I'm a student and backend developer based in the US!
+                Hello, I am a student and backend developer based in the US!
               </Box>
               <Divider orientation='horizontal' size='lg' background='black' />
               <MotionBox whileHover={{ scale: 1.25 }}>
