@@ -1,4 +1,3 @@
-import { ReactNode } from 'react'
 import {
   Box,
   Flex,
@@ -33,7 +32,6 @@ const NavLink = ({ children }) => (
 
 export default function Nav() {
   const { colorMode, toggleColorMode } = useColorMode()
-  const { isOpen, onOpen, onClose } = useDisclosure()
   return (
     <>
       <Box bg={useColorModeValue('#feefd3', 'gray.800')} px={4}>
