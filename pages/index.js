@@ -27,6 +27,7 @@ export default function Home() {
           rel='icon'
           href='https://avatars.githubusercontent.com/u/75808489?v=4'
         />
+        <script async src='https://cdn.splitbee.io/sb.js'></script>
       </Head>
       <Flex>
         <Spacer />
