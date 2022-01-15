@@ -1,5 +1,5 @@
 # My personal website
-> Live website [_here_](https://website-igweo.vercel.app). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live website [_here_](https://website-igweo.vercel.app)! <!-- If you have the project hosted somewhere, include the link here. -->
 
 <p align="center">
   <img  src="https://res.cloudinary.com/dfarzhq8o/image/upload/v1642048119/Website_Gif_rrdbqb.gif">
